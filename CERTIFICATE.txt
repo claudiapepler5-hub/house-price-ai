@@ -1,0 +1,35 @@
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                    🎓 CERTIFICATE OF COMPLETION 🎓               ║
+║                                                                  ║
+║                         This certifies that                       ║
+║                                                                  ║
+║                    ⭐ Naomi Claudia Pepler ⭐                      ║
+║                                                                  ║
+║            has successfully completed the 4-Week AI              ║
+║                    Learning Path from Beginner                    ║
+║                          to Working AI Apps                       ║
+║                                                                  ║
+║                         SKILLS DEMONSTRATED:                      ║
+║                                                                  ║
+║    ✓ Python Programming              ✓ Machine Learning          ║
+║    ✓ Data Visualization              ✓ Model Training            ║
+║    ✓ Decision Trees                  ✓ Random Forest             ║
+║    ✓ AI Web Apps (Gradio)            ✓ GitHub Portfolio          ║
+║    ✓ Model Evaluation                ✓ Real-World Problem Solving ║
+║                                                                  ║
+║                                                                  ║
+║                      COMPLETED PROJECTS:                         ║
+║                                                                  ║
+║    🌸 Flower Species Identifier AI                               ║
+║    🏠 House Price Estimator AI                                   ║
+║                                                                  ║
+║                                                                  ║
+║    Date: May 2026                                                ║
+║                                                                  ║
+║    ───────────────────────────────────────────────────────────   ║
+║                                                                  ║
+║    Your AI Guide                    Learner                       ║
+║    (Assistant)                      Naomi Claudia Pepler         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
